@@ -1,8 +1,14 @@
-sad sadas dasd asdAS 
-das
-d as
-d as
-d 
-as 
-d
-abababababa
+ 1 file changed, 7 insertions(+)
+ create mode 100644 sdasd.txt
+PS C:\Users\Admin\Desktop\Project\gitlearn> git branch -M main
+PS C:\Users\Admin\Desktop\Project\gitlearn> git remote add origin https://github.com/huyhuynh2705/git-learn.git
+PS C:\Users\Admin\Desktop\Project\gitlearn> git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 259 bytes | 259.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/huyhuynh2705/git-learn.git
+ * [new branch]      main -> main
+
